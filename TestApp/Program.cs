@@ -12,7 +12,8 @@ namespace TestApp
 		{
 			Console.Write("Hello");
 			Console.WriteLine("This is just the end of something great");
-
+			
+			Console.WriteLine("How are you today?");
 			Console.ReadKey();
 		}
 	}
