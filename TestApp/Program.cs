@@ -11,6 +11,7 @@ namespace TestApp
 		static void Main(string[] args)
 		{
 			Console.Write("Hello");
+			Console.WriteLine("This is just the begining");
 			Console.ReadKey();
 		}
 	}
